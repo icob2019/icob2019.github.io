@@ -1,3 +1,3 @@
 name: ICOB2019
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman
