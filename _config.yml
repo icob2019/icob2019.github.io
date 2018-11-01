@@ -98,9 +98,13 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 8. Site navigation
 navigation_header:
-  Home: /
+  ICOB2019: /
+  Program: /program/
+  Venue: /venue/
+  Registration: /registration/
   #Categories: /categories/
-  About: /about/
+  #About: /about/
+  Contact: /contact/
 
 navigation_footer:
   Home: /

@@ -1,9 +1,11 @@
 ---
-title: International Conference on Biophotonics 2019
 layout: page
+title: Venue
 feature_image: "https://www.st-andrews.ac.uk/assets/university/homepage/images/hero-banner/st-andrews-hero-banner-sep-2018.jpg"
 feature_text: |
   ## ICOB 2019
 ---
 
-There isn't much going on here yet, but watch this space
+ICOB2019 will be hosted in the University of St Andrews.
+
+Details about the town, university, travel and accommodation to follow.

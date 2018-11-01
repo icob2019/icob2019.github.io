@@ -1,0 +1,51 @@
+// Background colours
+$backgroundColour: #fefefe;
+$codeBackgroundColour: #fafafa;
+$featureBackgroundColour: #f9fafa;
+$accentColour: #05bf85;
+$headerColour: #00539b;
+$footerColor: #d9d9d9;
+
+// Text colours
+$headingColour: #454545;
+$featureColor: #fafafa;
+$bodyColour: #454545;
+$linkColour: #00539b;
+$hoverColour: #001b33;
+$focusColour: #fa407a;
+$captionColour: #00539b;
+$white: #ffffff;
+
+
+// Typography
+$bodytype: (
+  //font-family: 'Georgia, serif',
+  //font-family: '"Source Sans Pro", sans-serif',
+  font-family: '"Source Sans Pro", sans-serif',
+  regular: 400,
+  bold: 700,
+  italic: 400i,
+  cap-height: 0.75
+);
+
+$headingtype: (
+  //font-family: '"Merriweather", serif',
+  font-family: '"Source Sans Pro", sans-serif',
+  regular: 400,
+  bold: 600,
+  cap-height: 0.75
+);
+
+$monospacetype: (
+  font-family: 'Menlo, monospace',
+  regular: 400,
+  cap-height: 0.68
+);
+
+// Font import, if you're using a non-standard web font
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+@import url('https://fonts.googleapis.com/css?family=Dosis:400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,600');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab|Ruda');
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:700i|Fira+Sans');
+@import url('https://fonts.googleapis.com/css?family=Cabin|Roboto:400,700|Roboto+Condensed:400,700');
