@@ -6,4 +6,10 @@ feature_text: |
   ## ICOB 2019
 ---
 
-There isn't much going on here yet, but watch this space
+Continuing the success of the previous meetings held in Sacramento, Ottawa, Jena, Florence and Perth, the 6th conference will come to St Andrews, UK, running over two full days.
+
+ICOB has a tradition of bringing together opinion leaders in the field to consider where the field is going and what opportunities there are to work together. Key in this goal is end users of biophotonics technologies and this year co-location and running back-to-back with Science on the Swan presents an exceptional opportunity to engage with medical researchers and translators.
+
+ICOB will run a Gordon-style single-stream conference with break-out sessions and an emphasis on the participation of junior researchers, and poster-led discussions. There will be an associated exhibition to avail researchers with the chance to discuss the latest commercial technical developments. And there will be opportunities to consider entrepreneurship in Biophotonics.
+
+The conference will be held in St Andrews' Old Course Hotel, overlooking the renowned 17th Road Hole of the Old Course and the West Sands Beach. It is walking distance to the University and the St Andrews Town, providing an ideal venue for offsite events, interactions and visits.
