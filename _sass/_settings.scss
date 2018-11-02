@@ -21,7 +21,8 @@ $white: #ffffff;
 $bodytype: (
   //font-family: 'Georgia, serif',
   //font-family: '"Source Sans Pro", sans-serif',
-  font-family: '"Source Sans Pro", sans-serif',
+  //font-family: '"Source Sans Pro", sans-serif',
+  font-family: '"Ubuntu", sans-serif',
   regular: 400,
   bold: 700,
   italic: 400i,
@@ -30,7 +31,8 @@ $bodytype: (
 
 $headingtype: (
   //font-family: '"Merriweather", serif',
-  font-family: '"Source Sans Pro", sans-serif',
+  //font-family: '"Source Sans Pro", sans-serif',
+  font-family: '"Abel", sans-serif',
   regular: 400,
   bold: 600,
   cap-height: 0.75
@@ -49,3 +51,5 @@ $monospacetype: (
 @import url('https://fonts.googleapis.com/css?family=Roboto+Slab|Ruda');
 @import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:700i|Fira+Sans');
 @import url('https://fonts.googleapis.com/css?family=Cabin|Roboto:400,700|Roboto+Condensed:400,700');
+@import url('https://fonts.googleapis.com/css?family=Abel|Ubuntu');
+
