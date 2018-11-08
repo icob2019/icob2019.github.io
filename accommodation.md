@@ -6,4 +6,4 @@ feature_text: |
   ## ICOB 2019, 22-24 May
 ---
 
-Link
+St Andrews has wide variety of accommodation options to fit your needs. You can find a good selection of them [here](https://www.visitstandrews.com/stay/).
