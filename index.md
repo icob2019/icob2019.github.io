@@ -3,10 +3,10 @@ title: International Conference on Biophotonics
 layout: page
 feature_image: "https://www.st-andrews.ac.uk/assets/university/homepage/images/hero-banner/st-andrews-hero-banner-sep-2018.jpg"
 feature_text: |
-  ## ICOB 2019, 21-25 May
+  ## ICOB 2019, 22-24 May
 ---
 
-### ICOB 2019  &nbsp; | &nbsp;  21-25 May  &nbsp; | &nbsp;  St Andrews, UK
+### ICOB 2019  &nbsp; | &nbsp;  22-24 May  &nbsp; | &nbsp;  St Andrews, UK
 
 Continuing the success of the previous meetings held in Sacramento, Ottawa, Jena, Florence and Perth, the 6th conference will come to St Andrews, UK, running over three days.
 
