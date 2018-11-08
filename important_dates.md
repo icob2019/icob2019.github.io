@@ -7,5 +7,8 @@ feature_text: |
 ---
 
 Abstract submission deadline:
+
 Registration deadline: 
-Conference dates: Wednesday 22<sup>nd<\sup> to Friday 24<sup>th<\sup> May 2019.
+
+Conference dates: Wednesday 22<sup>nd</sup> to Friday 24<sup>th</sup> May 2019.
+  
