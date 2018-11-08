@@ -9,6 +9,5 @@ feature_text: |
 Information on traveling to St Andrews by air, rail, bus or car can be found here: [Getting to St Andrews](https://www.st-andrews.ac.uk/visiting/travel/).
 
 The conference venue ([Old Course Hotel](https://www.oldcoursehotel.co.uk/)) is located only 10-minute walk away from the heart of St Andrews, overlooking the infamous Old Course.
-
 Address:
 Old Course Hotel, Old Station Road, St Andrews, Scotland, KY16 9SP.
