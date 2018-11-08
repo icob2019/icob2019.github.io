@@ -6,6 +6,6 @@ feature_text: |
   ## ICOB 2019, 22-24 May
 ---
 
-ICOB2019 will be hosted in the University of St Andrews.
+ICOB2019 will be hosted in the Old Course Hotel, St Andrews.
 
 Details about the town, university, travel and accommodation to follow.
