@@ -8,6 +8,11 @@ body {
   overflow-x: hidden;
 }
 
+sup {
+  vertical-align: super;
+  font-size: smaller;
+}
+
 .container {
   width: 90%;
   max-width: 800px;
