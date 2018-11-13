@@ -6,4 +6,4 @@ feature_text: |
   ## ICOB 2019, 22-24 May
 ---
 
-Contact us on: [icob2019@st-andrews.ac.uk](mailto:icob2019@st-andrews.ac.uk)
+For any inquiries, contact us on: [icob2019@st-andrews.ac.uk](mailto:icob2019@st-andrews.ac.uk)

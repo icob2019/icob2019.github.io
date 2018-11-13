@@ -100,9 +100,9 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 navigation_header:
   ICOB2019: /
   Program: /program/
-  Venue: /venue/
+  Venue and Travel: /venue/
   Registration: /registration/
-  Important dates: /important_dates/
+  #Important dates: /important_dates/
   #Travel: /travel/
   #Accommodation: /accommodation/
   #Categories: /categories/
