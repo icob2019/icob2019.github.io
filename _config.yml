@@ -106,7 +106,7 @@ navigation_header:
   #Travel: /travel/
   #Accommodation: /accommodation/
   #Categories: /categories/
-  #About: /about/
+  About: /about/
   Contact: /contact/
 
 navigation_footer:

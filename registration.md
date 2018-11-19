@@ -6,6 +6,6 @@ feature_text: |
   ## ICOB 2019, 22-24 May
 ---
 
-Registration will open by the first of January 2019.
+Registration will open in January 2019.
 
 Registration information will be updated here as made available.

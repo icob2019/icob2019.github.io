@@ -10,4 +10,35 @@ ICOB is a Gordon-style conference, comprising solely invited talks given by lead
 
 ICOB2019 will focus on global health, environment, imaging at depth, neurophotonics, among others.  
 
-The detailed conference program and a list of invited speakers will be released shortly.
+
+<h4 id="speakers">Invited Speakers</h4>
+
+<div style="margin-top: 1rem; margin-bottom: 1.5rem">
+
+<p style="margin-bottom: 0.5rem; color: #00539b">
+Andy Yun &nbsp;&nbsp;
+<span style="font-style: italic; color: #454545">
+Harvard Medical School and Wellman Center for Photomedicine, Massachusetts General Hospital, USA</span>
+</p>
+
+<p style="margin-bottom: 0.5rem; color: #00539b">
+Malte Gather &nbsp;&nbsp;
+<span style="font-style: italic; color: #454545">
+School of Physics and Astronomy, University of St Andrews, UK</span>
+</p>
+
+<p style="margin-bottom: 0.5rem; color: #00539b">
+Kate Bechtel &nbsp;&nbsp;
+<span style="font-style: italic; color: #454545">
+Triple Ring Technologies Inc., USA</span>
+</p>
+
+<p style="margin-bottom: 0.5rem; color: #00539b">
+Andrew Blaikie &nbsp;&nbsp;
+<span style="font-style: italic; color: #454545">
+School of Medicine, University of St Andrews, UK</span>
+</p>
+
+</div>
+
+The detailed conference program and a full list of invited speakers will be released shortly.
