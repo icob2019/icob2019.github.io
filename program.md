@@ -16,15 +16,27 @@ ICOB2019 will focus on global health, environment, imaging at depth, neurophoton
 <div style="margin-top: 1rem; margin-bottom: 1.5rem">
 
 <p style="margin-bottom: 0.5rem; color: #00539b">
+Andrew Blaikie &nbsp;&nbsp;
+<span style="font-style: italic; color: #454545">
+School of Medicine, University of St Andrews, UK</span>
+</p>
+
+<p style="margin-bottom: 0.5rem; color: #00539b">
 Andy Yun &nbsp;&nbsp;
 <span style="font-style: italic; color: #454545">
 Harvard Medical School and Wellman Center for Photomedicine, Massachusetts General Hospital, USA</span>
 </p>
 
 <p style="margin-bottom: 0.5rem; color: #00539b">
-Malte Gather &nbsp;&nbsp;
+Halina Rubinsztein-Dunlop &nbsp;&nbsp;
 <span style="font-style: italic; color: #454545">
-School of Physics and Astronomy, University of St Andrews, UK</span>
+School of Mathematics and Physics, University of Queensland, Australia</span>
+</p>
+
+<p style="margin-bottom: 0.5rem; color: #00539b">
+Juergen Popp &nbsp;&nbsp;
+<span style="font-style: italic; color: #454545">
+University of Jena, Germany</span>
 </p>
 
 <p style="margin-bottom: 0.5rem; color: #00539b">
@@ -34,10 +46,17 @@ Triple Ring Technologies Inc., USA</span>
 </p>
 
 <p style="margin-bottom: 0.5rem; color: #00539b">
-Andrew Blaikie &nbsp;&nbsp;
+Malte Gather &nbsp;&nbsp;
 <span style="font-style: italic; color: #454545">
-School of Medicine, University of St Andrews, UK</span>
+School of Physics and Astronomy, University of St Andrews, UK</span>
 </p>
+
+<p style="margin-bottom: 0.5rem; color: #00539b">
+Nitish Thakor &nbsp;&nbsp;
+<span style="font-style: italic; color: #454545">
+National University of Singapore, Singapore</span>
+</p>
+
 
 </div>
 
