@@ -62,11 +62,11 @@ Adrià Escobet-Montalbán
 
 <p style="margin-bottom: 0.5rem">
 Kishan Dholakia, 
-Adrià Escobet-Montalbán 
+Adrià Escobet-Montalbán, 
 Malte Gather,
 Frank Gunn-Moore,
 Sandra Murray, 
-Philip Wijesinghe, 
+Philip Wijesinghe
 &nbsp;&nbsp;
 <span style="font-style: italic;">University of St Andrews, UK</span>
 </p>
