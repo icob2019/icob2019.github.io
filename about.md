@@ -9,6 +9,18 @@ feature_text: |
 The International Conference on Biophotonics is a Gordon-style conference that seeks to host targeted discussions on the state-of-art and future direction of biophotonics.
 We achieve this by assembling a program of themed invited talks from leading researchers in biophotonics and related fields, and combining it with a strong focus on break-out sessions, contributed posters and networking events.
 
+
+#### Chair ICOB2019
+<div style="margin-top: 1rem; margin-bottom: 1.5rem">
+
+<p style="margin-bottom: 0.5rem">
+Kishan Dholakia &nbsp;&nbsp;
+<span style="font-style: italic;">University of St Andrews, UK</span>
+</p>
+
+</div>
+
+
 #### International Committee
 
 <div style="margin-top: 1rem; margin-bottom: 1.5rem">
@@ -61,7 +73,6 @@ Adrià Escobet-Montalbán
 -->
 
 <p style="margin-bottom: 0.5rem">
-Kishan Dholakia, 
 Adrià Escobet-Montalbán, 
 Malte Gather,
 Frank Gunn-Moore,
