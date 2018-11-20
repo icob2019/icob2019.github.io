@@ -14,11 +14,6 @@ We achieve this by assembling a program of themed invited talks from leading res
 <div style="margin-top: 1rem; margin-bottom: 1.5rem">
 
 <p style="margin-bottom: 0.5rem">
-Brian Wilson &nbsp;&nbsp;
-<span style="font-style: italic;">University of Toronto, Canada</span>
-</p>
-
-<p style="margin-bottom: 0.5rem">
 Dennis Matthews &nbsp;&nbsp;
 <span style="font-style: italic;">UC Davis Medical Center, USA</span>
 </p>
@@ -29,13 +24,18 @@ Malini Olivo &nbsp;&nbsp;
 </p>
 
 <p style="margin-bottom: 0.5rem">
+Juergen Popp &nbsp;&nbsp;
+<span style="font-style: italic;">Leibniz-Institut für Photonische Technologien e.V., Germany</span>
+</p>
+
+<p style="margin-bottom: 0.5rem">
 David Sampson &nbsp;&nbsp;
 <span style="font-style: italic;">University of Surrey, UK</span>
 </p>
 
 <p style="margin-bottom: 0.5rem">
-Juergen Popp &nbsp;&nbsp;
-<span style="font-style: italic;">University of Jena, Germany</span>
+Brian Wilson &nbsp;&nbsp;
+<span style="font-style: italic;">University of Toronto, Canada</span>
 </p>
 
 </div>
@@ -61,7 +61,13 @@ Adrià Escobet-Montalbán
 -->
 
 <p style="margin-bottom: 0.5rem">
-Kishan Dholakia, Sandra Murray, Philip Wijesinghe, Adrià Escobet-Montalbán &nbsp;&nbsp;
+Kishan Dholakia, 
+Adrià Escobet-Montalbán 
+Malte Gather,
+Frank Gunn-Moore,
+Sandra Murray, 
+Philip Wijesinghe, 
+&nbsp;&nbsp;
 <span style="font-style: italic;">University of St Andrews, UK</span>
 </p>
 
