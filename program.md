@@ -52,6 +52,12 @@ National University of Singapore, Singapore</span>
 </p>
 
 <p style="margin-bottom: 0.5rem; color: #00539b">
+Chris Xu &nbsp;&nbsp;
+<span style="font-style: italic; color: #454545">
+School of Applied and Engineering Physics, Cornell University, USA</span>
+</p>
+
+<p style="margin-bottom: 0.5rem; color: #00539b">
 Andy Yun &nbsp;&nbsp;
 <span style="font-style: italic; color: #454545">
 Harvard Medical School and Wellman Center for Photomedicine, Massachusetts General Hospital, USA</span>
