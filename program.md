@@ -65,6 +65,12 @@ School of Mathematics and Physics, University of Queensland, Australia</span>
 </p>
 
 <p style="margin-bottom: 0.5rem; color: #00539b">
+David Sampson &nbsp;&nbsp;
+<span style="font-style: italic; color: #454545">
+University of Surrey, UK</span>
+</p>
+
+<p style="margin-bottom: 0.5rem; color: #00539b">
 Nitish Thakor &nbsp;&nbsp;
 <span style="font-style: italic; color: #454545">
 National University of Singapore, Singapore</span>
