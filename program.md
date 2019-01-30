@@ -41,6 +41,12 @@ School of Medicine, University of St Andrews, UK</span>
 </p>
 
 <p style="margin-bottom: 0.5rem; color: #00539b">
+Andrew Brown &nbsp;&nbsp;
+<span style="font-style: italic; color: #454545">
+SPIE, USA</span>
+</p>
+
+<p style="margin-bottom: 0.5rem; color: #00539b">
 Malte Gather &nbsp;&nbsp;
 <span style="font-style: italic; color: #454545">
 School of Physics and Astronomy, University of St Andrews, UK</span>
