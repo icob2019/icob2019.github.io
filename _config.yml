@@ -84,7 +84,7 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "ICOB2019" # Site name or title, also used in jekyll-seo-tag
+title: "International Conference on Biophotonics, ICOB 2019, ICOB2019" # Site name or title, also used in jekyll-seo-tag
 #logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "International Conference on Biophotonics, ICOB 2019, is a biennial, Gordon-style, single-stream conference that brings key opinion leaders in the field of Biophotonics to present and discuss global problems, photonics discoveries and the future of the field." # Site description and default description, also used in jekyll-seo-tag
 #url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
