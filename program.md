@@ -52,16 +52,30 @@ Malte Gather &nbsp;&nbsp;
 School of Physics and Astronomy, University of St Andrews, UK</span>
 </p>
 
+<!--
 <p style="margin-bottom: 0.5rem; color: #00539b">
 Markus Lankers &nbsp;&nbsp;
 <span style="font-style: italic; color: #454545">
 MIBIC GmbH & Co KG, Germany</span>
+</p>
+-->
+
+<p style="margin-bottom: 0.5rem; color: #00539b">
+Dennis Matthews &nbsp;&nbsp;
+<span style="font-style: italic; color: #454545">
+UC Davis Medical Center, USA</span>
 </p>
 
 <p style="margin-bottom: 0.5rem; color: #00539b">
 Juergen Popp &nbsp;&nbsp;
 <span style="font-style: italic; color: #454545">
 Leibniz-Institut für Photonische Technologien e.V., Germany</span>
+</p>
+
+<p style="margin-bottom: 0.5rem; color: #00539b">
+Ignatius Rasiah &nbsp;&nbsp;
+<span style="font-style: italic; color: #454545">
+National University of Singapore, Singapore</span>
 </p>
 
 <p style="margin-bottom: 0.5rem; color: #00539b">
@@ -80,6 +94,12 @@ University of Surrey, UK</span>
 Nitish Thakor &nbsp;&nbsp;
 <span style="font-style: italic; color: #454545">
 National University of Singapore, Singapore</span>
+</p>
+
+<p style="margin-bottom: 0.5rem; color: #00539b">
+Brian Wilson &nbsp;&nbsp;
+<span style="font-style: italic; color: #454545">
+University of Toronto, Canada</span>
 </p>
 
 <p style="margin-bottom: 0.5rem; color: #00539b">
