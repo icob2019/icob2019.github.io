@@ -6,7 +6,7 @@ feature_text: |
   ## ICOB 2019, 22-24 May
 ---
 
-**Registration for ICOB2019 is open NOW until the 26th April.**
+**Registration for ICOB2019 is open NOW until the 1st April.**
 
 [Register online HERE](https://onlineshop.st-andrews.ac.uk/conferences-and-events/conferences/physics-and-astronomy/international-conference-on-biophotonics-2019 "ICOB2019 Registration")
 

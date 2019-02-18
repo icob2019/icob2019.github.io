@@ -25,7 +25,7 @@ Finding accommodation in St Andrews can be challenging due to a high number of v
 
 A broader range of accommodation options can be found in a neighbouring town of Dundee. Travel from and to St Andrews is easy via a 30-minute regular-service bus (number 99A-D).
 
-[APEX Hotel (Dundee)](https://www.apexhotels.co.uk/apex-city-quay-hotel-spa) is offering a number of rooms (BnB) for ICOB2019 delegates at a competitive reduced rate. These rooms are limited and on a first-come first-serve basis. Single and double rooms are available for exactly 3 nights starting from the 21<sup>st</sup> May. Please use the reference SAN2105 and book directly from dundee.reservations@apexhotels.co.uk  or tel. central reservations on 0800 049 8000.
+[APEX Hotel (Dundee)](https://www.apexhotels.co.uk/apex-city-quay-hotel-spa) is offering a number of rooms (BnB) for ICOB2019 delegates at a competitive reduced rate (until 9th April!). These rooms are limited and on a first-come first-serve basis. Single and double rooms are available for exactly 3 nights starting from the 21<sup>st</sup> May. Please use the reference SAN2105 and book directly from dundee.reservations@apexhotels.co.uk  or tel. central reservations on 0800 049 8000.
 
 
 ### Travel {#travel}
