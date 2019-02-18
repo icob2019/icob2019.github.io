@@ -16,6 +16,8 @@ All talks are invited; however, attendees are encouraged to submit contributed p
 
 Poster title, poster authors, and poster abstract (limited to 100 words, no figures) can be submitted during the registration process.
 
+Poster format will be A0 portrait.
+
 **Costs**
 
 There is a single cost for all attendees of £350 (GBP), which includes:

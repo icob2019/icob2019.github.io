@@ -29,6 +29,12 @@ Thayer School of Engineering, Dartmouth, USA</span>
 <div style="margin-top: 1rem; margin-bottom: 1.5rem">
 
 <p style="margin-bottom: 0.5rem; color: #00539b">
+Andrew Abell &nbsp;&nbsp;
+<span style="font-style: italic; color: #454545">
+University of Adelaide</span>
+</p>
+
+<p style="margin-bottom: 0.5rem; color: #00539b">
 Kate Bechtel &nbsp;&nbsp;
 <span style="font-style: italic; color: #454545">
 Triple Ring Technologies Inc., USA</span>
