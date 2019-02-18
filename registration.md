@@ -12,11 +12,13 @@ feature_text: |
 
 **Contributed posters**
 
-All talks are invited; however, attendees are encouraged to submit contributed posters for presentation. ICOB2019 will feature a strong emphasis on contributed posters and networking.
+All talks are invited; however, attendees are encouraged to submit contributed posters. ICOB2019 will feature a strong emphasis on contributed posters and networking.
 
 Poster title, poster authors, and poster abstract (limited to 100 words, no figures) can be submitted during the registration process.
 
 Poster format will be A0 portrait.
+
+There will be prizes for the best poster!
 
 **Costs**
 
