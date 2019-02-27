@@ -31,7 +31,7 @@ Thayer School of Engineering, Dartmouth, USA</span>
 <p style="margin-bottom: 0.5rem; color: #00539b">
 Andrew Abell &nbsp;&nbsp;
 <span style="font-style: italic; color: #454545">
-University of Adelaide</span>
+University of Adelaide, Australia</span>
 </p>
 
 <p style="margin-bottom: 0.5rem; color: #00539b">
@@ -43,7 +43,7 @@ Triple Ring Technologies Inc., USA</span>
 <p style="margin-bottom: 0.5rem; color: #00539b">
 Andrew Blaikie &nbsp;&nbsp;
 <span style="font-style: italic; color: #454545">
-School of Medicine, University of St Andrews, UK</span>
+University of St Andrews, UK</span> <!--School of Medicine,-->
 </p>
 
 <p style="margin-bottom: 0.5rem; color: #00539b">
@@ -55,7 +55,7 @@ SPIE, USA</span>
 <p style="margin-bottom: 0.5rem; color: #00539b">
 Malte Gather &nbsp;&nbsp;
 <span style="font-style: italic; color: #454545">
-School of Physics and Astronomy, University of St Andrews, UK</span>
+University of St Andrews, UK</span><!--School of Physics and Astronomy,-->
 </p>
 
 <!--
@@ -87,7 +87,7 @@ National University of Singapore, Singapore</span>
 <p style="margin-bottom: 0.5rem; color: #00539b">
 Halina Rubinsztein-Dunlop &nbsp;&nbsp;
 <span style="font-style: italic; color: #454545">
-School of Mathematics and Physics, University of Queensland, Australia</span>
+University of Queensland, Australia</span><!--School of Mathematics and Physics, -->
 </p>
 
 <p style="margin-bottom: 0.5rem; color: #00539b">
@@ -117,7 +117,7 @@ University of Toronto, Canada</span>
 <p style="margin-bottom: 0.5rem; color: #00539b">
 Chris Xu &nbsp;&nbsp;
 <span style="font-style: italic; color: #454545">
-School of Applied and Engineering Physics, Cornell University, USA</span>
+Cornell University, USA</span> <!--School of Applied and Engineering Physics,-->
 </p>
 
 <p style="margin-bottom: 0.5rem; color: #00539b">
