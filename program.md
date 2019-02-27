@@ -103,6 +103,12 @@ National University of Singapore, Singapore</span>
 </p>
 
 <p style="margin-bottom: 0.5rem; color: #00539b">
+Oliver Valet &nbsp;&nbsp;
+<span style="font-style: italic; color: #454545">
+mibiC, Germany</span>
+</p>
+
+<p style="margin-bottom: 0.5rem; color: #00539b">
 Brian Wilson &nbsp;&nbsp;
 <span style="font-style: italic; color: #454545">
 University of Toronto, Canada</span>

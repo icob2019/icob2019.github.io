@@ -36,3 +36,29 @@ The Old Course Hotel is only a 10-minute walk from the town centre and many of t
 
 The Old Course Hotel can also be reached from Dundee by a regular bus service.
 
+
+#### Getting to/from airport
+
+**Taxis**
+
+We suggest booking a taxi to and from the Edinburgh airport beforehand, which is cheaper.
+There are a number of taxi companies in St Andrews; the university-recommended taxy company is Williamsons Taxis of St Andrews.
+The cost is £100 each way, i.e., £200 for pick on arrival and return to airport after conference. (If you use an airport metered taxi, the cost will be approx. £150 each way) 
+To book your taxis, please contact Williamsons prior to your trip and supply your airline, flight number and arrival/departure times.
+Contact details are:  
+E-mail:  rabwill@gmail.com;
+Telephone: + (44) 1334 476787.
+
+**Public transport**
+
+Public transport is much cheaper, however, there are no direct links to St Andrews.
+
+There are connections from the airport (trams and 24-hour bus links) to Edinburgh city centre.  Trains run from Edinburgh railway station to Leuchars station.  There are regular buses and taxis available at Leuchars to St Andrews and it will take approx. 10 minutes by road. (Approx. 1:40 hrs)
+
+Alternatively, the 747 bus and a transfer to the X59/X24 will get you to St Andrews. (Approx. 2 hrs)
+
+
+
+
+
+
