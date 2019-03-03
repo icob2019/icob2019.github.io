@@ -28,7 +28,7 @@ There is a single cost for all attendees of £350 (GBP), which includes:
 - Conference dinner
 - Welcome reception
 
-Guest attendance to the dinner and reception only is available at £125 (GBP)
+Guest attendance to the dinner and reception only is available at £120 (GBP)
 
 
 
