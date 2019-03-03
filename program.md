@@ -67,9 +67,22 @@ MIBIC GmbH & Co KG, Germany</span>
 -->
 
 <p style="margin-bottom: 0.5rem; color: #00539b">
+Kirill Larin &nbsp;&nbsp;
+<span style="font-style: italic; color: #454545">
+University of Houston, USA</span>
+</p>
+
+<p style="margin-bottom: 0.5rem; color: #00539b">
 Dennis Matthews &nbsp;&nbsp;
 <span style="font-style: italic; color: #454545">
 UC Davis Medical Center, USA</span>
+</p>
+
+
+<p style="margin-bottom: 0.5rem; color: #00539b">
+Silvia Paracchini &nbsp;&nbsp;
+<span style="font-style: italic; color: #454545">
+University of St Andrews, UK</span>
 </p>
 
 <p style="margin-bottom: 0.5rem; color: #00539b">
@@ -96,11 +109,13 @@ David Sampson &nbsp;&nbsp;
 University of Surrey, UK</span>
 </p>
 
+<!--
 <p style="margin-bottom: 0.5rem; color: #00539b">
 Nitish Thakor &nbsp;&nbsp;
 <span style="font-style: italic; color: #454545">
 National University of Singapore, Singapore</span>
 </p>
+-->
 
 <p style="margin-bottom: 0.5rem; color: #00539b">
 Oliver Valet &nbsp;&nbsp;
