@@ -58,6 +58,12 @@ Malte Gather &nbsp;&nbsp;
 University of St Andrews, UK</span><!--School of Physics and Astronomy,-->
 </p>
 
+<p style="margin-bottom: 0.5rem; color: #00539b">
+Thomas Krauss &nbsp;&nbsp;
+<span style="font-style: italic; color: #454545">
+University of York, UK</span> <!--School of Medicine,-->
+</p>
+
 <!--
 <p style="margin-bottom: 0.5rem; color: #00539b">
 Markus Lankers &nbsp;&nbsp;
