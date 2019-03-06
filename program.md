@@ -84,6 +84,11 @@ Dennis Matthews &nbsp;&nbsp;
 UC Davis Medical Center, USA</span>
 </p>
 
+<p style="margin-bottom: 0.5rem; color: #00539b">
+Beth Mills &nbsp;&nbsp;
+<span style="font-style: italic; color: #454545">
+University of Edinburgh, UK</span>
+</p>
 
 <p style="margin-bottom: 0.5rem; color: #00539b">
 Silvia Paracchini &nbsp;&nbsp;
