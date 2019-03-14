@@ -35,6 +35,12 @@ University of Adelaide, Australia</span>
 </p>
 
 <p style="margin-bottom: 0.5rem; color: #00539b">
+Isla Barnard &nbsp;&nbsp;
+<span style="font-style: italic; color: #454545">
+University of St Andrews, UK</span> <!--School of Medicine,-->
+</p>
+
+<p style="margin-bottom: 0.5rem; color: #00539b">
 Kate Bechtel &nbsp;&nbsp;
 <span style="font-style: italic; color: #454545">
 Triple Ring Technologies Inc., USA</span>
@@ -88,6 +94,12 @@ UC Davis Medical Center, USA</span>
 Beth Mills &nbsp;&nbsp;
 <span style="font-style: italic; color: #454545">
 University of Edinburgh, UK</span>
+</p>
+
+<p style="margin-bottom: 0.5rem; color: #00539b">
+Malini Olivo &nbsp;&nbsp;
+<span style="font-style: italic; color: #454545">
+Singapore Bioimaging Consortium, Singapore</span>
 </p>
 
 <p style="margin-bottom: 0.5rem; color: #00539b">
