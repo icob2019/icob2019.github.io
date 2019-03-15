@@ -10,6 +10,9 @@ ICOB is a Gordon-style conference, comprising solely invited talks given by lead
 
 ICOB2019 will focus on global health, environment, imaging at depth, neurophotonics, among others.  
 
+Draft program is available here: 
+<a href="../ICOB2019_Programme_Draft_20190315.pdf">Draft Program</a>
+
 
 <h4 id="speakers">Keynote</h4>
 
@@ -165,5 +168,3 @@ Harvard Medical School and Wellman Center for Photomedicine, Massachusetts Gener
 </p>
 
 </div>
-
-The detailed conference program and a full list of invited speakers will be released shortly.
