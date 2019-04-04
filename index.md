@@ -10,7 +10,7 @@ feature_text: |
 
 ### ICOB 2019  &nbsp; | &nbsp;  22-24 May  &nbsp; | &nbsp;  St Andrews, UK
 
-[Program](./program/) &nbsp; [Speakers](./program#speakers) &nbsp; [<span style="color:red">Register Here</span>](./registration)
+[Program](./program/) &nbsp; [Speakers](./program#speakers) &nbsp; [<span style="color:red">Register Here (Deadline: 26th April)</span>](./registration)
 
 
 
