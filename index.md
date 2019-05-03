@@ -10,9 +10,7 @@ feature_text: |
 
 ### ICOB 2019  &nbsp; | &nbsp;  22-24 May  &nbsp; | &nbsp;  St Andrews, UK
 
-[Program](./program/) &nbsp; [Speakers](./program#speakers) &nbsp; [<span style="color:red">Register Here (Deadline: 26th April)</span>](./registration)
-
-
+[Program](./program/) &nbsp; [Speakers](./program#speakers) &nbsp; Registration Closed
 
 Continuing the success of the previous meetings held in Sacramento, Ottawa, Jena, Florence and Perth, the 6th conference will come to St Andrews, UK, running over three days.
 

@@ -6,12 +6,12 @@ feature_text: |
   ## ICOB 2019, 22-24 May
 ---
 
+**A short program is available here:**
+<a href="../ICOB2019_short_programme.pdf">Short Program (pdf)</a>
+
 ICOB is a Gordon-style conference, comprising solely invited talks given by leading researchers across a spectrum of subjects topical to the advancement of Biophotonics. Interactive breakout sessions and a strong focus on new ideas through contributed posters provide an opportunity for early-career researchers to interact with leaders in the field. 
 
 ICOB2019 will focus on global health, environment, imaging at depth, neurophotonics, among others.  
-
-Draft program is available here: 
-<a href="../ICOB2019_Programme_Draft_20190315.pdf">Draft Program</a>
 
 
 <h4 id="speakers">Keynote</h4>

@@ -103,7 +103,8 @@ navigation_header:
   ICOB2019: /
   Program: /program/
   Venue and Travel: /venue/
-  Registration: /registration/
+  Posters: /posters/
+  #Registration: /registration/
   #Important dates: /important_dates/
   #Travel: /travel/
   #Accommodation: /accommodation/
